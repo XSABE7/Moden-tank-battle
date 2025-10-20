@@ -1,9 +1,9 @@
 # Moden-tank-battle
-a simple tank game
 
-Modern Tank Battle (MTB)
+
+# Modern Tank Battle (MTB)
 ========================
-A lightweight open-source Java tank sim (3D) — emphasis on armor penetration realism and low system requirements.
+A simple tank game lightweight open-source Java tank sim (3D) — emphasis on armor penetration realism and low system requirements.
 
 Requirements (i'm try):
 - Windows 7 64-bit or newer
