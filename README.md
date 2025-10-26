@@ -15,3 +15,13 @@ Running:
 - java -Xmx384m -jar mtb.jar
 
 License: MIT
+
+
+------------------
+
+
+Hello everyone! Now I am trying to develop the game myself (maybe) because I haven't learned anything about java and I still don't know... But since this project is open source, anyone can help develop the gameSo this project will have nothing but the game concept and idea
+
+Thanks to all the developers who came to help. Note: I need help right now, including someone to teach me how to write Java.
+
+-With respect and admiration from XSABE7
